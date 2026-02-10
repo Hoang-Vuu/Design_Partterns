@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Decorator" />
         <module name="Singleton" />
+        <module name="State" />
         <module name="Observer" />
+        <module name="Template" />
       </profile>
     </annotationProcessing>
   </component>
