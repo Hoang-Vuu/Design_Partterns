@@ -11,5 +11,7 @@
     <file url="file://$PROJECT_DIR$/State/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Template/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Template/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Template_Method/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Template_Method/src/main/resources" charset="UTF-8" />
   </component>
 </project>

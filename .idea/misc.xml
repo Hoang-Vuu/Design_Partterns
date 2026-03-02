@@ -9,7 +9,13 @@
         <option value="$PROJECT_DIR$/Decorator/pom.xml" />
         <option value="$PROJECT_DIR$/State/pom.xml" />
         <option value="$PROJECT_DIR$/Template/pom.xml" />
+        <option value="$PROJECT_DIR$/Template_Method/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Template_Method/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="ms-17 (2)" project-jdk-type="JavaSDK">

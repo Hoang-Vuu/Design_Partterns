@@ -13,5 +13,8 @@
         <module name="Template" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Template_Method" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
