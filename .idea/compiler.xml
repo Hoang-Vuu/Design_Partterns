@@ -7,9 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Decorator" />
+        <module name="Proxy" />
+        <module name="Visitor" />
         <module name="Singleton" />
         <module name="State" />
+        <module name="chain_of_responsibility" />
         <module name="Observer" />
+        <module name="Strategy" />
+        <module name="memento" />
         <module name="Template" />
       </profile>
     </annotationProcessing>

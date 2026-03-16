@@ -10,6 +10,11 @@
         <option value="$PROJECT_DIR$/State/pom.xml" />
         <option value="$PROJECT_DIR$/Template/pom.xml" />
         <option value="$PROJECT_DIR$/Template_Method/pom.xml" />
+        <option value="$PROJECT_DIR$/Strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/chain_of_responsibility/pom.xml" />
+        <option value="$PROJECT_DIR$/memento/pom.xml" />
+        <option value="$PROJECT_DIR$/Proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/Visitor/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
