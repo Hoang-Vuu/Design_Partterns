@@ -13,8 +13,10 @@
         <module name="State" />
         <module name="chain_of_responsibility" />
         <module name="Observer" />
+        <module name="Builder" />
         <module name="Strategy" />
         <module name="memento" />
+        <module name="Adapter" />
         <module name="Template" />
       </profile>
     </annotationProcessing>
