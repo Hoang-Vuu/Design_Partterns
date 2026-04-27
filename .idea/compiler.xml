@@ -6,18 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Decorator" />
-        <module name="Proxy" />
+        <module name="Facade" />
         <module name="Visitor" />
-        <module name="Singleton" />
-        <module name="State" />
         <module name="chain_of_responsibility" />
-        <module name="Observer" />
         <module name="Builder" />
-        <module name="Strategy" />
         <module name="memento" />
         <module name="Adapter" />
         <module name="Template" />
+        <module name="Decorator" />
+        <module name="Proxy" />
+        <module name="Singleton" />
+        <module name="State" />
+        <module name="Observer" />
+        <module name="Strategy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
