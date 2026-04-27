@@ -15,6 +15,7 @@
         <module name="Template" />
         <module name="Decorator" />
         <module name="Proxy" />
+        <module name="Command" />
         <module name="Singleton" />
         <module name="State" />
         <module name="Observer" />
